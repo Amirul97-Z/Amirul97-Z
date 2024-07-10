@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything related to data
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on any data science project
-- 📫 Reach me at LinkedIn
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/muhammad-amirul-asyraaf-zulkarnain/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
