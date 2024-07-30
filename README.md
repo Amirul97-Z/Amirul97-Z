@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Amirul Asyraaf Bin Zulkarnain
 - 👀 I’m interested in anything related to data
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning Python, EDA, Machine Learning and SQL
 - 💞️ I’m looking to collaborate on any data science project
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/muhammad-amirul-asyraaf-zulkarnain/)
 - 😄 Pronouns: ...
